@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: PolMeth Europe
 
 # Username (this should match the folder name)
 authors:
