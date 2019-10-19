@@ -5,7 +5,7 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "Call for Proposals"
@@ -52,7 +52,7 @@ subtitle = ""
 
 **PolMeth is coming to Europe**
 
-We are pleased to be calling for proposals for the first Polmeth Europe Meeting in Hamburg between March 13-15th 2020. The deadline is December 13th 2019.
+We are pleased to be calling for proposals for the first Polmeth Europe Meeting in Hamburg between March 13-15th 2020. The deadline for proposals is December 13th 2019.
 Recent data driven and technological advances have a deep impact on Society, Research and Development and therefore also Political Science. New data and new tools revolutionize what we can do in empirical analyses.
 
 To allow for closer networking among data driven Political Scientists on the old continent, we are organising Polmeth Europe from 13 March – 15 March 2020, at the University of Hamburg, Germany.
