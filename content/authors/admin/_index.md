@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: The first PolMeth conference in Europe.
+role: The first PolMeth conference in Europe
 
 # Organizations/Affiliations
 organizations:
@@ -48,8 +48,7 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-[]
+#user_groups:[]
 ---
 
 The first PolMeth conference in Europe.
