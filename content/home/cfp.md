@@ -57,7 +57,7 @@ Recent data driven and technological advances have a deep impact on Society, Res
 
 To allow for closer networking among data driven Political Scientists on the old continent, we are organising Polmeth Europe from 13 March – 15 March 2020, at the University of Hamburg, Germany.
 
-It is our goal to bring together junior and senior scholars with a sweet tooth for innovative research methods and their applications. The conference follows the well-established Polmeth format: Faculty have the opportunity to present papers and receive in-depth feedback. PhD students are invited to contribute posters, with ample opportunity for input from more senior colleagues. We welcome both proposals that focus on methodological innovations, and proposals that apply cutting-edge methods to empirical problems of substantive interest. We also will have two morning keynotes from important scholars in political methodology.
+It is our goal to bring together junior and senior scholars with a sweet tooth for innovative research methods and their applications. The conference follows the well-established Polmeth format: Faculty have the opportunity to present papers and receive in-depth feedback. PhD students are invited to contribute posters, with ample opportunity for input from more senior colleagues. We welcome both proposals that focus on methodological innovations, and proposals that apply cutting-edge methods to empirical problems of substantive interest. We will also have two morning keynotes from important scholars in political methodology.
 Eager to actively build a vibrant community of enthusiastic methodologist, we extend the strict conference format with a series of well-designed social, mentoring, and network activities.
 
 We encourage submissions that reflect the diversity of the profession. Aware that our impact as a subfield comes through embracing this diversity, we actively seek and welcome people with diverse backgrounds, experiences, and identities.
@@ -75,4 +75,4 @@ Sincerely,
 
 Vera Tröger
 
-The I PolMeth Europe Organising Chair on behalf of its members <br> (Christian Arnold, Simon Munzert, Andreas Murr, Marcel Neunhoeffer, Lukas Stötzer)
+for the I PolMeth Europe Organising Committee <br> (Christian Arnold, Simon Munzert, Andreas Murr, Marcel Neunhoeffer, Lukas Stötzer)
