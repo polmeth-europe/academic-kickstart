@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/
 
 ############################
-## Theme 
+## Theme
 ############################
 
 # Choose a theme.
@@ -44,8 +44,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "The first PolMeth conference in Europe. In Hamburg between March 13-15th 2020. The deadline for proposals is December 13th 2019."
-
+description = "The first PolMeth conference in Europe. Online hosted by the University of Hamburg between March 17--19th 2021."
 # Display a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
 logo = ""
@@ -85,8 +84,8 @@ privacy_pack = true
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "vera.eva.troeger@uni-hamburg.de"
-phone = "+49 40 42838-3230"
+email = "polmeth-europe@protonmail.com"
+phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -251,5 +250,5 @@ plugins_js  = []
 ## Marketing
 ############################
 [marketing]
-  google_analytics = ""
+  google_analytics = "UA-107700855-2"
   google_tag_manager = ""

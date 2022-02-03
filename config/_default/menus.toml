@@ -8,15 +8,40 @@
   url = "#hero"
   weight = 10
 
+#[[main]]
+#  name = "More Information"
+#  url = "#programme"
+#  weight = 15
+
 [[main]]
-  name = "Call for Proposals"
-  url = "#cfp"
+  name = "Program"
+  url = "#programme"
   weight = 20
+
+  [[main]]
+  name = "Poster Sessions"
+  url = "#posters"
+  weight = 22
+
+[[main]]
+  name = "Mission Statement"
+  url = "#mission"
+  weight = 23
+
+[[main]]
+  name = "Key Facts"
+  url = "#key_facts"
+  weight = 24
+
+[[main]]
+  name = "Organising Committee"
+  url = "#orga"
+  weight = 25
 
 [[main]]
   name = "Key Dates"
   url = "#key_dates"
-  weight = 30
+  weight = 26
 
 
 [[main]]
